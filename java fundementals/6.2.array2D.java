@@ -18,7 +18,6 @@ public class Array {
 				System.out.println("arr[" + i + "][" + j + "] = " + arr[i][j]);
 			}
 		}
-		//sum of all elements
         int sum = 0;
 		for (int i = 0; i < n; i++) {
 			for (int j = 0; j < m; j++) {
