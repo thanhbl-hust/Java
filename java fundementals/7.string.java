@@ -1,3 +1,5 @@
+//java string;
+
 import java.util.Scanner;
 
 public class Array {
@@ -11,7 +13,7 @@ public class Array {
 
         System.out.println(s.charAt(0));
         //char at location i == s[i] in python, c++;
-        
+
 
 	}
 }
