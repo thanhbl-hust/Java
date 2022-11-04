@@ -13,8 +13,7 @@ public class Loop {
         }
         return value;
     }
-
-	public static void main(String[] args) {
+    public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 
         int n = input.nextInt();
@@ -22,8 +21,7 @@ public class Loop {
         //tinh tong so le tu 0 den n;
         int value = count(n);
         System.out.println(value);
-
-	}
+    }
 }
 
 

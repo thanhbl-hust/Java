@@ -23,6 +23,5 @@ public class Loop {
         //tinh tong so le tu 0 den n;
         int value = count(n);
         System.out.println(value);
-
-	}
+    }
 }
