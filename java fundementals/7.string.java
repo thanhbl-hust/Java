@@ -6,7 +6,12 @@ public class Array {
 
 
 
-		System.out.print(s.length());
+		System.out.println(s.length());
         //length of a string in java;
+
+        System.out.println(s.charAt(0));
+        //char at location i == s[i] in python, c++;
+        
+
 	}
 }
