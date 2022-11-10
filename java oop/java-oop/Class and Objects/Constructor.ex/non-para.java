@@ -12,7 +12,7 @@ class Student {
 	}
 }
 
-public class Entry {
+public class Main{
 	public static void main(String[] args) {
 		Student[] students = new Student[3];
 		for (int i = 0; i < 3; i++) {
