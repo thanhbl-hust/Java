@@ -1,0 +1,12 @@
+** DONG GOI **
+
+--
+
+
+Thuc te nen han che toi da bien co pham vi truy cap public |
+vi no vi pham tinh dong goi trong LTHDT. De dam bao tinh   |
+dong goi, ban nen de pham vi truy cap cac thuoc tinh la pri|
+va truy xuat cac thuoc tinh thong qua cac phuong thuc pub  |
+nhu getter, setter.                                        |
+
+Remember when to use this.value and value                  |
