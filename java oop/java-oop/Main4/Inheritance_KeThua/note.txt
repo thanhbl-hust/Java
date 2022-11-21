@@ -1,0 +1,13 @@
+** KE THUA **
+
+- Muc dich:
+    - Giup tai su dung Code
+    - Tang kha nang mo rong cua chuong trinh
+
+-- 
+
+keyword: "extend", using "super"
+
+
+Lop con khong duoc thua huong thuoc tinh va phuong thuc private |
+cua lop cha.                                                    |
