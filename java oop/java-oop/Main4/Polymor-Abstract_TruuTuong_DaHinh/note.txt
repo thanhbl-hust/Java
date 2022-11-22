@@ -2,3 +2,10 @@
 
 --
 
+*DA_HINH:
+Tinh da hinh duoc the hien trong code duoi 3 hinh thuc: nap chong phuong thuc|
+ghi de phuong thuc va da hinh thong qua cac doi tuong da hinh                |
+
+
+
+
